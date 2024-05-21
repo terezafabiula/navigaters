@@ -1,4 +1,5 @@
 # Usando NAVIGATERS
+
 -Navigater é o método para navegar entre telas.
 ![image](https://github.com/terezafabiula/navigaters/assets/150807884/68545c13-111b-4234-b4e3-270dc46b51b6)
 
